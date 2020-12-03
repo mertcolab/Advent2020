@@ -1,2 +1,2 @@
-# Advert2020
-Playing around Advert2020 Puzzles for fun and to play with some libraries or tools.
+# Advent2020
+Playing around Advent2020 Puzzles for fun and to play with some libraries or tools.
